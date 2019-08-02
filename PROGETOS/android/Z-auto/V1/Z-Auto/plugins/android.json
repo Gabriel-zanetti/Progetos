@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    },
+    "cordova-plugin-barcodescanner": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    },
+    "cordova-plugin-autostart": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "zm.br.zanetti"
+    }
+  }
+}
