@@ -1,0 +1,48 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "cordova-plugin-autostart": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "iot.zanetti.br"
+    }
+  }
+}

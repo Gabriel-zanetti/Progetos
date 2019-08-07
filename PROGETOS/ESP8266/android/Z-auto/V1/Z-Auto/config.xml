@@ -31,4 +31,4 @@
     <plugin platform="android" name="cordova-plugin-autostart" version="2.3.0" source="npm"/>
 
 </widget>
-<!--cordova plugin add cordova-plugin-barcodescanner @red-mobile/cordova-plugin-background-mode cordova-plugin-autostart cordova-plugin-dialogs cordova-plugin-inappbrowser cordova-plugin-file cordova-plugin-local-notification-->
+<!--cordova plugin add cordova-plugin-barcodescanner-browser-support cordova-plugin-background-mode cordova-plugin-autostart cordova-plugin-dialogs cordova-plugin-inappbrowser cordova-plugin-file cordova-plugin-local-notification-->

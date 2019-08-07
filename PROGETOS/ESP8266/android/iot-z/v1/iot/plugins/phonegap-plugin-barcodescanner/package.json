@@ -1,0 +1,80 @@
+{
+  "_from": "cordova-plugin-barcodescanner-browser-support@7.1.22",
+  "_id": "cordova-plugin-barcodescanner-browser-support@7.1.22",
+  "_inBundle": false,
+  "_integrity": "sha512-2lehrc4/efgGy8s0tTwC3n41FgCakv/JVHKTmxIDWt+rtlF6AuGGA27vQDV8m/1tpcXxgj3E0fKUveBtsC5VFw==",
+  "_location": "/cordova-plugin-barcodescanner-browser-support",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-barcodescanner-browser-support@7.1.22",
+    "name": "cordova-plugin-barcodescanner-browser-support",
+    "escapedName": "cordova-plugin-barcodescanner-browser-support",
+    "rawSpec": "7.1.22",
+    "saveSpec": null,
+    "fetchSpec": "7.1.22"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-barcodescanner-browser-support/-/cordova-plugin-barcodescanner-browser-support-7.1.22.tgz",
+  "_shasum": "e140c20fa457d51f469a0c367fb3d0ad1dc345e4",
+  "_spec": "cordova-plugin-barcodescanner-browser-support@7.1.22",
+  "_where": "C:\\Users\\gabriel\\Desktop\\iot",
+  "author": {
+    "name": "Adobe PhoneGap Team"
+  },
+  "bugs": {
+    "url": "https://github.com/Tjieco/cordova-plugin-barcodescanner-browser-support/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-barcodescanner-browser-support",
+    "platforms": [
+      "ios",
+      "android",
+      "windows",
+      "browser"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
+  "devDependencies": {
+    "jasmine-node": "1.14.5",
+    "pluginpub": "^0.0.9"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "7.0.0": {
+        "cordova-android": ">=6.3.0"
+      },
+      "7.1.0": {
+        "cordova": ">=7.1.0",
+        "cordova-android": ">=6.3.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/phonegap/phonegap-plugin-barcodescanner#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "ecosystem:phonegap",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-windows",
+    "cordova-browser",
+    "cordova:plugin"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-barcodescanner-browser-support",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tjieco/cordova-plugin-barcodescanner-browser-support.git"
+  },
+  "scripts": {
+    "test": "jasmine-node --color spec"
+  },
+  "version": "7.1.22"
+}
